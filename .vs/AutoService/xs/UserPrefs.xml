@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{6B3E9878-4CA9-4026-85C0-BA9ECDE8D965}|Default">
+  <MonoDevelop.Ide.ItemProperties.AutoService PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AutoService/Controllers/AuthController.cs">
+    <Files>
+      <File FileName="AutoService/Views/Auth/Signup.cshtml" Line="9" Column="17" />
+      <File FileName="AutoService/Views/Shared/_Layout.cshtml" />
+      <File FileName="AutoService/Views/Auth/Login.cshtml" />
+      <File FileName="AutoService/Controllers/AuthController.cs" Line="10" Column="2" />
+      <File FileName="AutoService/Views/Auth/Dashboard.cshtml" />
+      <File FileName="AutoService/Views/Auth/AddVehicle.cshtml" />
+      <File FileName="AutoService/Views/Auth/AddService.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AutoService" expanded="True">
+            <Node name="AutoService" expanded="True" selected="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Auth" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
